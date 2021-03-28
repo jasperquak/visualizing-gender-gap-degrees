@@ -1,4 +1,4 @@
-#Visualizing gender gap degrees
+# Visualizing gender gap degrees
 
 > TO DO: add a brief project description
 
