@@ -1,12 +1,14 @@
-# visualizing-gender-gap-degrees
-This is a project created while learning Data analytics in Python with [Dataquest](https://www.dataquest.io/)
+#Visualizing gender gap degrees
 
-To view the project, simply click the .ipynb file above.
+> TO DO: add a brief project description
 
+> TO DO: add comment about the data
 
-To see it, simply click the .ipynb file above.
+This is a 'guided project' that I did while learning Data Analytics in Python with DataQuest.
 
-You may, however, get to see "Sorry, something went wrong. Reload?"
-In that case, go to:
-https://nbviewer.jupyter.org/
-and copy-paste the entire URL from the address bar in your browser.
+To see the result, simply click the .ipynb file above.
+
+You may, however, get to see "Sorry, something went wrong. Reload?" In that case:
+- copy the URL from the address bar in your browser
+- go to https://nbviewer.jupyter.org/
+- paste the URL
